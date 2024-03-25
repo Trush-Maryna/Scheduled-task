@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scheduled-task", "Scheduled-task\Scheduled-task.csproj", "{B026AA5B-B5DF-4CF2-83A6-8B4821041EF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B026AA5B-B5DF-4CF2-83A6-8B4821041EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B026AA5B-B5DF-4CF2-83A6-8B4821041EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B026AA5B-B5DF-4CF2-83A6-8B4821041EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B026AA5B-B5DF-4CF2-83A6-8B4821041EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8624E6A2-3CA8-4075-A378-D6BA4F750E86}
+	EndGlobalSection
+EndGlobal
