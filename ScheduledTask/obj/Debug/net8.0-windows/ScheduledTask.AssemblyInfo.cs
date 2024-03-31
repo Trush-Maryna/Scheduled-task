@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScheduledTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffcc90f61b0bafc9ff8333aa84c014cc6bd324d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4ff09b9eef7ceea7228b70b9ce3ea01fc21d072")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScheduledTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScheduledTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
