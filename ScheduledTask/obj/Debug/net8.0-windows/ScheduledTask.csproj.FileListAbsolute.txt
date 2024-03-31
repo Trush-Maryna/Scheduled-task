@@ -1,0 +1,17 @@
+D:\VS Community\C#.NET_2\Scheduled-task\ScheduledTask\bin\Debug\net8.0-windows\ScheduledTask.exe
+D:\VS Community\C#.NET_2\Scheduled-task\ScheduledTask\bin\Debug\net8.0-windows\ScheduledTask.deps.json
+D:\VS Community\C#.NET_2\Scheduled-task\ScheduledTask\bin\Debug\net8.0-windows\ScheduledTask.runtimeconfig.json
+D:\VS Community\C#.NET_2\Scheduled-task\ScheduledTask\bin\Debug\net8.0-windows\ScheduledTask.dll
+D:\VS Community\C#.NET_2\Scheduled-task\ScheduledTask\bin\Debug\net8.0-windows\ScheduledTask.pdb
+D:\VS Community\C#.NET_2\Scheduled-task\ScheduledTask\obj\Debug\net8.0-windows\ScheduledTask.Executor.resources
+D:\VS Community\C#.NET_2\Scheduled-task\ScheduledTask\obj\Debug\net8.0-windows\ScheduledTask.csproj.GenerateResource.cache
+D:\VS Community\C#.NET_2\Scheduled-task\ScheduledTask\obj\Debug\net8.0-windows\ScheduledTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Community\C#.NET_2\Scheduled-task\ScheduledTask\obj\Debug\net8.0-windows\ScheduledTask.AssemblyInfoInputs.cache
+D:\VS Community\C#.NET_2\Scheduled-task\ScheduledTask\obj\Debug\net8.0-windows\ScheduledTask.AssemblyInfo.cs
+D:\VS Community\C#.NET_2\Scheduled-task\ScheduledTask\obj\Debug\net8.0-windows\ScheduledTask.csproj.CoreCompileInputs.cache
+D:\VS Community\C#.NET_2\Scheduled-task\ScheduledTask\obj\Debug\net8.0-windows\ScheduledTask.sourcelink.json
+D:\VS Community\C#.NET_2\Scheduled-task\ScheduledTask\obj\Debug\net8.0-windows\ScheduledTask.dll
+D:\VS Community\C#.NET_2\Scheduled-task\ScheduledTask\obj\Debug\net8.0-windows\refint\ScheduledTask.dll
+D:\VS Community\C#.NET_2\Scheduled-task\ScheduledTask\obj\Debug\net8.0-windows\ScheduledTask.pdb
+D:\VS Community\C#.NET_2\Scheduled-task\ScheduledTask\obj\Debug\net8.0-windows\ScheduledTask.genruntimeconfig.cache
+D:\VS Community\C#.NET_2\Scheduled-task\ScheduledTask\obj\Debug\net8.0-windows\ref\ScheduledTask.dll
